@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RootCode-x
+- 👋 Hi, I’m @RootCode
 - 👀 I’m interested in ... Coding
 - 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... Coders
