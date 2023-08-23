@@ -89,7 +89,7 @@
 
 <hr>
 
- <p align="center"><img src="https://user-images.githubusercontent.com/106725796/207322593-83cdbb3b-eb94-4050-bf31-1797150a8f04.gif"/></p>
+ 
 
 
 <details>
