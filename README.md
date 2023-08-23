@@ -1,4 +1,5 @@
-![r](https://github.com/RootCode-x/RootCode-x/assets/142745647/ee2a40c0-da3b-4945-8530-ce7838ff26be)
+
+![r](https://github.com/RootCode-x/RootCode-x/assets/142745647/96f8af2e-b483-4dbf-94c5-79528853b013)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10FF00&width=500&lines=Hi!+Welcome+To+Root+Code+Hacking+World+%E2%98%A0)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Root Code <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> < <i style='color:#f5f6fa';>Cyber Security Specialist</i> /> </strong></h1>
