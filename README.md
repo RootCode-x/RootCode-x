@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Hi+Friend's+Assalamu+Allaikum+%F0%9F%A5%B0;Welcome+To+Ikramuzzaman+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+Welcome+To+Root+Code+Hacking+World)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Root Code <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> < <i style='color:#f5f6fa';>Cyber Security Specialist</i> /> </strong></h1>
 
