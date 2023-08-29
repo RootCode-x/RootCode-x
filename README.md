@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Root Code <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> < <i style='color:#f5f6fa';>Cyber Security Specialist</i> /> </strong></h1>
 
 
-![1f2fcb7c2143b5fec507b633e9eeda1d](https://github.com/RootCode-x/RootCode-x/assets/142745647/6deea81f-799a-4530-a84f-a861ab2d29a9)
+
 
 
 ### 👩‍💻 &nbsp; A Few Thicks About Me :) 
